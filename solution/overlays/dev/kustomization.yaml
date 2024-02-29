@@ -4,4 +4,4 @@ bases:
 namespace: dev
 
 patches:
-- "replicas.yaml"
+- 'replicas.yaml'
