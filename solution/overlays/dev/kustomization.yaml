@@ -3,5 +3,5 @@ bases:
 
 namespace: dev
 
-patches:
+patch:
 - replicas.yaml
