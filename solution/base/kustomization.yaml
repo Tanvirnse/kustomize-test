@@ -4,17 +4,13 @@ resources:
 - service.yaml
 
 commonLabels:
-  app: mykustomapp
+  app: vote-app
 
 commonAnnotations:
-  app: mykustom-annontations
+  app: voteapp-annontations
 
 namePrefix:
   kustom-
 
 nameSuffix:
   -v1
-
-configMapGenerator:
-- name: mykustom-map
-  env: config.properties
