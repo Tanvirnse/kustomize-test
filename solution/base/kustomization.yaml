@@ -6,9 +6,6 @@ resources:
 commonLabels:
   app: vote-app
 
-commonAnnotations:
-  app: voteapp-annontations
-
 namePrefix:
   kustom-
 
