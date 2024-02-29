@@ -5,9 +5,3 @@ resources:
 
 commonLabels:
   app: vote-app
-
-namePrefix:
-  kustom-
-
-nameSuffix:
-  -v1
